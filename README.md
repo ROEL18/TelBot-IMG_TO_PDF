@@ -1,4 +1,4 @@
-# PYTHON-MINI-PROJECT
+# TelBot-IMG_TO_PDF
 **Telegram Image to PDF Bot**
 
 This Telegram bot allows users to send images, which are then combined into a PDF file and sent back to the user. The bot is written in Python and uses the `python-telegram-bot` library for interacting with the Telegram API, as well as the `PIL` (Pillow) and `FPDF` libraries for image processing and PDF generation, respectively.
